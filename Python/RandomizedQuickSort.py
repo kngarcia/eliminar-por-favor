@@ -46,3 +46,4 @@ num_iterations = 10  # Número de iteraciones
 average_time = measure_average_time_randomized_quicksort(n, num_iterations)
 print(f"Tiempo promedio de Randomized Quicksort para un arreglo de tamaño {n}: {average_time} segundos")
 print("hola")
+print("como vas?")
